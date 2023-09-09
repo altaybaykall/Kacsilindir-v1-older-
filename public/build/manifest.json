@@ -1,0 +1,57 @@
+{
+  "resources/css/aboutus.css": {
+    "file": "assets/aboutus-bc430d2e.css",
+    "isEntry": true,
+    "src": "resources/css/aboutus.css"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-7f9ed828.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/css/compare.css": {
+    "file": "assets/compare-afd25504.css",
+    "isEntry": true,
+    "src": "resources/css/compare.css"
+  },
+  "resources/css/dashboard.css": {
+    "file": "assets/dashboard-de2aaedf.css",
+    "isEntry": true,
+    "src": "resources/css/dashboard.css"
+  },
+  "resources/css/fullauthpage.css": {
+    "file": "assets/fullauthpage-28610395.css",
+    "isEntry": true,
+    "src": "resources/css/fullauthpage.css"
+  },
+  "resources/css/homepage.css": {
+    "file": "assets/homepage-a309707a.css",
+    "isEntry": true,
+    "src": "resources/css/homepage.css"
+  },
+  "resources/css/loginregister.css": {
+    "file": "assets/loginregister-c0432920.css",
+    "isEntry": true,
+    "src": "resources/css/loginregister.css"
+  },
+  "resources/css/modelselect.css": {
+    "file": "assets/modelselect-e5635321.css",
+    "isEntry": true,
+    "src": "resources/css/modelselect.css"
+  },
+  "resources/css/news.css": {
+    "file": "assets/news-1aa586f0.css",
+    "isEntry": true,
+    "src": "resources/css/news.css"
+  },
+  "resources/css/singlenews.css": {
+    "file": "assets/singlenews-8bdc39c7.css",
+    "isEntry": true,
+    "src": "resources/css/singlenews.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-92fcfc87.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
